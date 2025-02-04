@@ -26,16 +26,16 @@ JSON file that contains all the data the user wants to give in input in order to
     "execution":{
         "number" : 100,
         "timeout": 2,
-        "test_reference" : "API Cloud Flare",
+        "test_reference" : "API 1",
         "name" : "wifi"
     }, 
     "APIs":{
         "API Cloud Flare":{
-            "url":"https://one-api-hml.suez.com/oneapi-readonly/",
+            "url":"https://api2",
             "color":"blue"
         },
         "API Intra":{ 
-            "url" : "https://one-api.green.intra/oneapi-readonly/",
+            "url" : "https://api2",
             "color":"red"
         }
     }
