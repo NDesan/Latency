@@ -50,7 +50,7 @@ In "execution" we have :
 * "number" which represents the number of calls that we will realize for each API.
 * "timeout"
 * "test_reference" which represents the main API reference from which we are going to compare the performances of the other APIs.
-* "name" which can have the value "wifi" or "ethernet". This value shows the type of connexion that we executed (via the wifi of Suez or the ethernet cable). The type of connexion has a significative impact over the latencies.
+* "name" which can have the value "wifi" or "ethernet". This value shows the type of connexion that we executed (via the wifi or the ethernet cable). The type of connexion has a significative impact over the latencies.
 
 In "APIs" we have the different APIs called. The attributes of those APIs are :
 
